@@ -26,7 +26,7 @@ window.onload = function () {
     'I\'m Pulock',
     'I code things on the web',
     'I\'m currently just learning code and code.<br> You can contact me at <a href="mailto:abiruzzaman.molla@gmail.com">abiruzzaman.molla@gmail.com</a>',
-    '<a target="_blank" href="https://twitter.com/asliabir">twitter.com/juliangarnier</a><br><a target="_blank" href="https://codepen.io/asliabir">codepen.io/asliabir</a><br><a target="_blank" href="https://github.com/asliabir">github.com/asliabir</a>',
+    '<a target="_blank" href="https://twitter.com/asliabir">twitter.com/asliabir</a><br><a target="_blank" href="https://codepen.io/asliabir">codepen.io/asliabir</a><br><a target="_blank" href="https://github.com/asliabir">github.com/asliabir</a>',
     getCurrentTime(),
     '👀 AZ.'
   ]
